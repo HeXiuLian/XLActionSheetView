@@ -19,6 +19,16 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'XLActionSheet'
 ```
+## USAGE
+
+#import <XLActionSheet/XLActionSheetView.h>
+
+示例：
+
+[XLActionSheetView showActionSheetViewWithData:@[@"相机",@"相册"] showInfoKey:nil showTipKey:nil cancleTextColor:nil selectItemTextColor:nil backHandler:^(id  _Nonnull result, NSInteger selectIndex) {
+NSLog(@"%@---%ld",result,(long)selectIndex);
+}];
+
 
 ## Author
 
