@@ -26,11 +26,13 @@ pod 'XLActionSheet'
 
 示例：
 
+```
+
 [XLActionSheetView showActionSheetViewWithData:@[@"相机",@"相册"] showInfoKey:nil showTipKey:nil cancleTextColor:nil selectItemTextColor:nil backHandler:^(id  _Nonnull result, NSInteger selectIndex) {
 NSLog(@"%@---%ld",result,(long)selectIndex);
 }];
 
-
+```
 ## Author
 
 815009254@qq.com, xiulian.he@gmail.com
