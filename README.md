@@ -10,6 +10,9 @@
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+![Image text](https://github.com/HeXiuLian/XLActionSheetView/1.png)
+![Image text](https://github.com/HeXiuLian/XLActionSheetView/2.png)
+![Image text](https://github.com/HeXiuLian/XLActionSheetView/3.png)
 
 ## Installation
 
