@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (1.1.0)
+  - XLActionSheet (0.1.0):
+    - Masonry
+
+DEPENDENCIES:
+  - XLActionSheet (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  XLActionSheet:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  XLActionSheet: f214986e5a0d957d84fb4a32eebf2a08c42e7685
+
+PODFILE CHECKSUM: bd0f00f2e3e1132eb0d4d2e60df635666e4f05bb
+
+COCOAPODS: 1.5.3

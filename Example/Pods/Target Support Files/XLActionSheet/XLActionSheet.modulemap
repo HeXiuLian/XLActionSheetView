@@ -1,0 +1,6 @@
+framework module XLActionSheet {
+  umbrella header "XLActionSheet-umbrella.h"
+
+  export *
+  module * { export * }
+}
